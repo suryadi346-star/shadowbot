@@ -19,6 +19,8 @@
 📏 Real-time line count: run `bash core_agent_lines.sh` to verify anytime.
 
 ## 📢 News
+<details>
+<summary>Earlier news</summary>
 
 - **2026-04-05** 🚀 Released **v0.1.5** — sturdier long-running tasks, Dream two-stage memory, production-ready sandboxing and programming Agent SDK. Please see [release notes](https://github.com/suryadi346-star/shadowbot/releases/tag/v0.1.5) for details.
 - **2026-04-04** 🚀 Jinja2 response templates, Dream memory hardened, smarter retry handling.
@@ -30,7 +32,7 @@
 - **2026-03-29** 💬 WeChat voice, typing, QR/media resilience; fixed-session OpenAI-compatible API.
 - **2026-03-28** 📚 Provider docs refresh; skill template wording fix.
 - **2026-03-27** 🚀 Released **v0.1.4.post6** — architecture decoupling, litellm removal, end-to-end streaming, WeChat channel, and a security fix. Please see [release notes](https://github.com/suryadi346-star/shadowbot/releases/tag/v0.1.4.post6) for details.
-
+</details>
 
 <details>
 <summary>Earlier news</summary>
@@ -91,7 +93,7 @@
 
 </details>
 
-> 🐈 shadowbot is for educational, research, and technical exchange purposes only. It is unrelated to crypto and does not involve any official token or coin.
+> 🦍 shadowbot is for educational, research, and technical exchange purposes only. It is unrelated to crypto and does not involve any official token or coin.
 
 ## Key Features of shadowbot:
 
