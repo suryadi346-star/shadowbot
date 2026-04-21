@@ -2,18 +2,17 @@
   <img src="images/shadowbot_logo.png" alt="shadowbot" width="500">
   <h1>shadowbot: Ultra-Lightweight Personal AI Agent</h1>
   <p>
-    <a href="https://pypi.org/project/shadowbot-ai/"><img src="https://img.shields.io/pypi/v/shadowbot-ai" alt="PyPI"></a>
-    <a href="https://pepy.tech/project/shadowbot-ai"><img src="https://static.pepy.tech/badge/shadobot-ai" alt="Downloads"></a>
+    </a>
     <img src="https://img.shields.io/badge/python-≥3.11-blue" alt="Python">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
-    <a href="https://shadowbot.wiki/docs/0.1.5/getting-started/shadowbot-overview"><img src="https://img.shields.io/badge/Docs-shadowbot.wiki-blue?style=flat&logo=readthedocs&logoColor=white" alt="Docs"></a>
-    <a href="./COMMUNICATION.md"><img src="https://img.shields.io/badge/Feishu-Group-E9DBFC?style=flat&logo=feishu&logoColor=white" alt="Feishu"></a>
-    <a href="./COMMUNICATION.md"><img src="https://img.shields.io/badge/WeChat-Group-C5EAB4?style=flat&logo=wechat&logoColor=white" alt="WeChat"></a>
-    <a href="https://discord.gg/MnCvHqpUGB"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+    </a>
+    <a href="./COMMUNICATION.md"><img src="https://img.shields.io/badge/Feishu-Group-E9DBFC?style=flat&logo=feishu&logoColor=white" alt="FeishuNanoBot"></a>
+    <a href="./COMMUNICATION.md"><img src="https://img.shields.io/badge/WeChat-Group-C5EAB4?style=flat&logo=wechat&logoColor=white" alt="WeChatNanoBot"></a>
+    <a href="https://discord.gg/MnCvHqpUGB"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord&logoColor=white" alt="DiscordNanoBot"></a>
   </p>
 </div>
 
-🐈 **shadowbot** is an **ultra-lightweight** personal AI agent inspired by [OpenClaw](https://github.com/openclaw/openclaw).
+🦍 **shadowbot** is an **ultra-lightweight** personal AI agent inspired by [OpenClaw](https://github.com/openclaw/openclaw).
 
 ⚡️ Delivers core agent functionality with **99% fewer lines of code**.
 
