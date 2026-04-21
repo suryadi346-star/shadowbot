@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="shadowbot_logo.png" alt="shadowbot" width="500">
+  <img src="images/shadowbot_logo.png" alt="shadowbot" width="500">
   <h1>shadowbot: Ultra-Lightweight Personal AI Agent</h1>
   <p>
     <a href="https://pypi.org/project/shadowbot-ai/"><img src="https://img.shields.io/pypi/v/shadowbot-ai" alt="PyPI"></a>
@@ -107,7 +107,7 @@
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="shadowbot_arch.png" alt="shadowbot architecture" width="800">
+  <img src="images/shadowbot_arch.png" alt="shadowbot architecture" width="800">
 </p>
 
 ## Table of Contents
